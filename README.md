@@ -1,4 +1,4 @@
-# Arbetsprov LIA
+# Incremental Game Filip Ingemarsson
 
-## http://filipingemarsson.se/arbetsprov-LIA/
-## https://github.com/Flippen97/Arbetsprov_LIA
+## http://filipingemarsson.se/Incremental_game/
+## https://github.com/Flippen97/incremaental_game
